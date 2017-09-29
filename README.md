@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'John Smith', 'All rights reserved'
+RastlynViewTool::Renderer.copyright 'John Smith', 'All rights reserved'
 ```
 ## Development
 
